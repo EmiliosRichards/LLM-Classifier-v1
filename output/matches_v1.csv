@@ -1,0 +1,1296 @@
+prospect_firma,prospect_url,partner_name,partner_evaluation_score,partner_avg_leads,match_score,overlap_type
+exxomove GmbH,https://www.exxomove.de/,CareLend,47,3,2.85,HORIZONTAL
+exxomove GmbH,https://www.exxomove.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+exxomove GmbH,https://www.exxomove.de/,HRlab,45,2,2.75,HORIZONTAL
+exxomove GmbH,https://www.exxomove.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+exxomove GmbH,https://www.exxomove.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Blipack AG,blipack.ch,CareLend,47,3,2.85,HORIZONTAL
+Blipack AG,blipack.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Blipack AG,blipack.ch,HRlab,45,2,2.75,HORIZONTAL
+Blipack AG,blipack.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+Blipack AG,blipack.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+SATLOG GmbH,satlog.de,CareLend,47,3,2.85,HORIZONTAL
+SATLOG GmbH,satlog.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SATLOG GmbH,satlog.de,HRlab,45,2,2.75,HORIZONTAL
+SATLOG GmbH,satlog.de,Tap to Tie,44,2,2.7,HORIZONTAL
+SATLOG GmbH,satlog.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Seeburger AG,seeburger.de,CareLend,47,3,2.85,HORIZONTAL
+Seeburger AG,seeburger.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Seeburger AG,seeburger.de,HRlab,45,2,2.75,HORIZONTAL
+Seeburger AG,seeburger.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Seeburger AG,seeburger.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Kalmeda,www.kalmeda.de,CareLend,47,3,2.85,HORIZONTAL
+Kalmeda,www.kalmeda.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Kalmeda,www.kalmeda.de,HRlab,45,2,2.75,HORIZONTAL
+Kalmeda,www.kalmeda.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Kalmeda,www.kalmeda.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Reconizer,https://recogizer.com/de/,CareLend,47,3,2.85,HORIZONTAL
+Reconizer,https://recogizer.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Reconizer,https://recogizer.com/de/,HRlab,45,2,2.75,HORIZONTAL
+Reconizer,https://recogizer.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Reconizer,https://recogizer.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+swissplast,swissplast.com,CareLend,47,3,2.85,HORIZONTAL
+swissplast,swissplast.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+swissplast,swissplast.com,HRlab,45,2,2.75,HORIZONTAL
+swissplast,swissplast.com,Tap to Tie,44,2,2.7,HORIZONTAL
+swissplast,swissplast.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Hasslacher,https://www.hasslacher.com/,CareLend,47,3,2.85,HORIZONTAL
+Hasslacher,https://www.hasslacher.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Hasslacher,https://www.hasslacher.com/,HRlab,45,2,2.75,HORIZONTAL
+Hasslacher,https://www.hasslacher.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Hasslacher,https://www.hasslacher.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Wolf Verpackungen GmbH,wolf-verpackungen.de,CareLend,47,3,2.85,HORIZONTAL
+Wolf Verpackungen GmbH,wolf-verpackungen.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Wolf Verpackungen GmbH,wolf-verpackungen.de,HRlab,45,2,2.75,HORIZONTAL
+Wolf Verpackungen GmbH,wolf-verpackungen.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Wolf Verpackungen GmbH,wolf-verpackungen.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Opta data Gruppe,optadata-gruppe.de,CareLend,47,3,2.85,HORIZONTAL
+Opta data Gruppe,optadata-gruppe.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Opta data Gruppe,optadata-gruppe.de,HRlab,45,2,2.75,HORIZONTAL
+Opta data Gruppe,optadata-gruppe.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Opta data Gruppe,optadata-gruppe.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+CargoBeamer,www.cargobeamer.com,CareLend,47,3,2.85,HORIZONTAL
+CargoBeamer,www.cargobeamer.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+CargoBeamer,www.cargobeamer.com,HRlab,45,2,2.75,HORIZONTAL
+CargoBeamer,www.cargobeamer.com,Tap to Tie,44,2,2.7,HORIZONTAL
+CargoBeamer,www.cargobeamer.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+DATAflor AG,dataflor.de,CareLend,47,3,2.85,HORIZONTAL
+DATAflor AG,dataflor.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+DATAflor AG,dataflor.de,HRlab,45,2,2.75,HORIZONTAL
+DATAflor AG,dataflor.de,Tap to Tie,44,2,2.7,HORIZONTAL
+DATAflor AG,dataflor.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Digital medical Academy,https://dmaonline.de/,CareLend,47,3,2.85,HORIZONTAL
+Digital medical Academy,https://dmaonline.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Digital medical Academy,https://dmaonline.de/,HRlab,45,2,2.75,HORIZONTAL
+Digital medical Academy,https://dmaonline.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Digital medical Academy,https://dmaonline.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Paul Kläs GmbH,paul-klaes.de,CareLend,47,3,2.85,HORIZONTAL
+Paul Kläs GmbH,paul-klaes.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Paul Kläs GmbH,paul-klaes.de,HRlab,45,2,2.75,HORIZONTAL
+Paul Kläs GmbH,paul-klaes.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Paul Kläs GmbH,paul-klaes.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+aedifion,aedifion.com,CareLend,47,3,2.85,HORIZONTAL
+aedifion,aedifion.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+aedifion,aedifion.com,HRlab,45,2,2.75,HORIZONTAL
+aedifion,aedifion.com,Tap to Tie,44,2,2.7,HORIZONTAL
+aedifion,aedifion.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+eye concept GmbH,eye-concept.de,CareLend,47,3,2.85,HORIZONTAL
+eye concept GmbH,eye-concept.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+eye concept GmbH,eye-concept.de,HRlab,45,2,2.75,HORIZONTAL
+eye concept GmbH,eye-concept.de,Tap to Tie,44,2,2.7,HORIZONTAL
+eye concept GmbH,eye-concept.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+NetBAU  SIDOUN International GmbH,sidoun.de,CareLend,47,3,2.85,HORIZONTAL
+NetBAU  SIDOUN International GmbH,sidoun.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+NetBAU  SIDOUN International GmbH,sidoun.de,HRlab,45,2,2.75,HORIZONTAL
+NetBAU  SIDOUN International GmbH,sidoun.de,Tap to Tie,44,2,2.7,HORIZONTAL
+NetBAU  SIDOUN International GmbH,sidoun.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Planforge GmbH,planforge.io,CareLend,47,3,2.85,HORIZONTAL
+Planforge GmbH,planforge.io,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Planforge GmbH,planforge.io,HRlab,45,2,2.75,HORIZONTAL
+Planforge GmbH,planforge.io,Tap to Tie,44,2,2.7,HORIZONTAL
+Planforge GmbH,planforge.io,vemeto GmbH,43,1,2.65,HORIZONTAL
+Notarberater,notarberater.de,CareLend,47,3,2.85,HORIZONTAL
+Notarberater,notarberater.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Notarberater,notarberater.de,HRlab,45,2,2.75,HORIZONTAL
+Notarberater,notarberater.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Notarberater,notarberater.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+sennder,www.sennder.com,CareLend,47,3,2.85,HORIZONTAL
+sennder,www.sennder.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+sennder,www.sennder.com,HRlab,45,2,2.75,HORIZONTAL
+sennder,www.sennder.com,Tap to Tie,44,2,2.7,HORIZONTAL
+sennder,www.sennder.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+PASS Logistics Solutions AG,pass-consulting.com,CareLend,47,3,2.85,HORIZONTAL
+PASS Logistics Solutions AG,pass-consulting.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+PASS Logistics Solutions AG,pass-consulting.com,HRlab,45,2,2.75,HORIZONTAL
+PASS Logistics Solutions AG,pass-consulting.com,Tap to Tie,44,2,2.7,HORIZONTAL
+PASS Logistics Solutions AG,pass-consulting.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Camunda GmbH,camunda.com,CareLend,47,3,2.85,HORIZONTAL
+Camunda GmbH,camunda.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Camunda GmbH,camunda.com,HRlab,45,2,2.75,HORIZONTAL
+Camunda GmbH,camunda.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Camunda GmbH,camunda.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Hawk AI,hawk.ai,CareLend,47,3,2.85,HORIZONTAL
+Hawk AI,hawk.ai,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Hawk AI,hawk.ai,HRlab,45,2,2.75,HORIZONTAL
+Hawk AI,hawk.ai,Tap to Tie,44,2,2.7,HORIZONTAL
+Hawk AI,hawk.ai,vemeto GmbH,43,1,2.65,HORIZONTAL
+Signavio,https://www.signavio.com/de/,CareLend,47,3,2.85,HORIZONTAL
+Signavio,https://www.signavio.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Signavio,https://www.signavio.com/de/,HRlab,45,2,2.75,HORIZONTAL
+Signavio,https://www.signavio.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Signavio,https://www.signavio.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+SCOOTTRAIN,https://www.scoottrain.com/,CareLend,47,3,2.85,HORIZONTAL
+SCOOTTRAIN,https://www.scoottrain.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SCOOTTRAIN,https://www.scoottrain.com/,HRlab,45,2,2.75,HORIZONTAL
+SCOOTTRAIN,https://www.scoottrain.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+SCOOTTRAIN,https://www.scoottrain.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+contractix,www.contractix.de,CareLend,47,3,2.85,HORIZONTAL
+contractix,www.contractix.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+contractix,www.contractix.de,HRlab,45,2,2.75,HORIZONTAL
+contractix,www.contractix.de,Tap to Tie,44,2,2.7,HORIZONTAL
+contractix,www.contractix.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+NotarPartner,notarpartner.de,CareLend,47,3,2.85,HORIZONTAL
+NotarPartner,notarpartner.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+NotarPartner,notarpartner.de,HRlab,45,2,2.75,HORIZONTAL
+NotarPartner,notarpartner.de,Tap to Tie,44,2,2.7,HORIZONTAL
+NotarPartner,notarpartner.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+BioMed X GmbH,bmedx.com,CareLend,47,3,2.85,HORIZONTAL
+BioMed X GmbH,bmedx.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BioMed X GmbH,bmedx.com,HRlab,45,2,2.75,HORIZONTAL
+BioMed X GmbH,bmedx.com,Tap to Tie,44,2,2.7,HORIZONTAL
+BioMed X GmbH,bmedx.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+pharmaserv,pharmaserv.de,CareLend,47,3,2.85,HORIZONTAL
+pharmaserv,pharmaserv.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+pharmaserv,pharmaserv.de,HRlab,45,2,2.75,HORIZONTAL
+pharmaserv,pharmaserv.de,Tap to Tie,44,2,2.7,HORIZONTAL
+pharmaserv,pharmaserv.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Deeprag,https://www.deprag.com/,CareLend,47,3,2.85,HORIZONTAL
+Deeprag,https://www.deprag.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Deeprag,https://www.deprag.com/,HRlab,45,2,2.75,HORIZONTAL
+Deeprag,https://www.deprag.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Deeprag,https://www.deprag.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Manner,https://www.manner.com,CareLend,47,3,2.85,HORIZONTAL
+Manner,https://www.manner.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Manner,https://www.manner.com,HRlab,45,2,2.75,HORIZONTAL
+Manner,https://www.manner.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Manner,https://www.manner.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+plan net,https://www.plan-net.com/de/,CareLend,47,3,2.85,HORIZONTAL
+plan net,https://www.plan-net.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+plan net,https://www.plan-net.com/de/,HRlab,45,2,2.75,HORIZONTAL
+plan net,https://www.plan-net.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+plan net,https://www.plan-net.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Aforms,https://www.aforms.com/,CareLend,47,3,2.85,HORIZONTAL
+Aforms,https://www.aforms.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Aforms,https://www.aforms.com/,HRlab,45,2,2.75,HORIZONTAL
+Aforms,https://www.aforms.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Aforms,https://www.aforms.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Solarisbank AG,solarisbank.com,CareLend,47,3,2.85,HORIZONTAL
+Solarisbank AG,solarisbank.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Solarisbank AG,solarisbank.com,HRlab,45,2,2.75,HORIZONTAL
+Solarisbank AG,solarisbank.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Solarisbank AG,solarisbank.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+BIM4You,bib-gmbh.de,CareLend,47,3,2.85,HORIZONTAL
+BIM4You,bib-gmbh.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BIM4You,bib-gmbh.de,HRlab,45,2,2.75,HORIZONTAL
+BIM4You,bib-gmbh.de,Tap to Tie,44,2,2.7,HORIZONTAL
+BIM4You,bib-gmbh.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+PflegeNet,pflegenet.de,CareLend,47,3,2.85,HORIZONTAL
+PflegeNet,pflegenet.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+PflegeNet,pflegenet.de,HRlab,45,2,2.75,HORIZONTAL
+PflegeNet,pflegenet.de,Tap to Tie,44,2,2.7,HORIZONTAL
+PflegeNet,pflegenet.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+BTL Medizintechnik GmbH,https://www.btlmed.de/,CareLend,47,3,2.85,HORIZONTAL
+BTL Medizintechnik GmbH,https://www.btlmed.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BTL Medizintechnik GmbH,https://www.btlmed.de/,HRlab,45,2,2.75,HORIZONTAL
+BTL Medizintechnik GmbH,https://www.btlmed.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+BTL Medizintechnik GmbH,https://www.btlmed.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Commercetools GmbH,commercetools.com,CareLend,47,3,2.85,HORIZONTAL
+Commercetools GmbH,commercetools.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Commercetools GmbH,commercetools.com,HRlab,45,2,2.75,HORIZONTAL
+Commercetools GmbH,commercetools.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Commercetools GmbH,commercetools.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Endel,endel.io,CareLend,47,3,2.85,HORIZONTAL
+Endel,endel.io,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Endel,endel.io,HRlab,45,2,2.75,HORIZONTAL
+Endel,endel.io,Tap to Tie,44,2,2.7,HORIZONTAL
+Endel,endel.io,vemeto GmbH,43,1,2.65,HORIZONTAL
+Brumba,brumaba.de,CareLend,47,3,2.85,HORIZONTAL
+Brumba,brumaba.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Brumba,brumaba.de,HRlab,45,2,2.75,HORIZONTAL
+Brumba,brumaba.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Brumba,brumaba.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Sarna Plastec AG,sarna-plastec.ch,CareLend,47,3,2.85,HORIZONTAL
+Sarna Plastec AG,sarna-plastec.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Sarna Plastec AG,sarna-plastec.ch,HRlab,45,2,2.75,HORIZONTAL
+Sarna Plastec AG,sarna-plastec.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+Sarna Plastec AG,sarna-plastec.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+ToolSense GmbH,https://toolsense.io/,CareLend,47,3,2.85,HORIZONTAL
+ToolSense GmbH,https://toolsense.io/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ToolSense GmbH,https://toolsense.io/,HRlab,45,2,2.75,HORIZONTAL
+ToolSense GmbH,https://toolsense.io/,Tap to Tie,44,2,2.7,HORIZONTAL
+ToolSense GmbH,https://toolsense.io/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Xerox GmbH,xerox.de,CareLend,47,3,2.85,HORIZONTAL
+Xerox GmbH,xerox.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Xerox GmbH,xerox.de,HRlab,45,2,2.75,HORIZONTAL
+Xerox GmbH,xerox.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Xerox GmbH,xerox.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+DIGI-BEL,digi-bel.de,CareLend,47,3,2.85,HORIZONTAL
+DIGI-BEL,digi-bel.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+DIGI-BEL,digi-bel.de,HRlab,45,2,2.75,HORIZONTAL
+DIGI-BEL,digi-bel.de,Tap to Tie,44,2,2.7,HORIZONTAL
+DIGI-BEL,digi-bel.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+myCortex,mycortex.de,CareLend,47,3,2.85,HORIZONTAL
+myCortex,mycortex.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+myCortex,mycortex.de,HRlab,45,2,2.75,HORIZONTAL
+myCortex,mycortex.de,Tap to Tie,44,2,2.7,HORIZONTAL
+myCortex,mycortex.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Bernstein,https://www.bernstein.eu/,CareLend,47,3,2.85,HORIZONTAL
+Bernstein,https://www.bernstein.eu/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Bernstein,https://www.bernstein.eu/,HRlab,45,2,2.75,HORIZONTAL
+Bernstein,https://www.bernstein.eu/,Tap to Tie,44,2,2.7,HORIZONTAL
+Bernstein,https://www.bernstein.eu/,vemeto GmbH,43,1,2.65,HORIZONTAL
+aforms2web,https://www.aforms2web.com,CareLend,47,3,2.85,HORIZONTAL
+aforms2web,https://www.aforms2web.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+aforms2web,https://www.aforms2web.com,HRlab,45,2,2.75,HORIZONTAL
+aforms2web,https://www.aforms2web.com,Tap to Tie,44,2,2.7,HORIZONTAL
+aforms2web,https://www.aforms2web.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+LeanIX,https://www.leanix.net/de/,CareLend,47,3,2.85,HORIZONTAL
+LeanIX,https://www.leanix.net/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+LeanIX,https://www.leanix.net/de/,HRlab,45,2,2.75,HORIZONTAL
+LeanIX,https://www.leanix.net/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+LeanIX,https://www.leanix.net/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+ebiga-VISION GmbH,ebiga-vision.com,CareLend,47,3,2.85,HORIZONTAL
+ebiga-VISION GmbH,ebiga-vision.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ebiga-VISION GmbH,ebiga-vision.com,HRlab,45,2,2.75,HORIZONTAL
+ebiga-VISION GmbH,ebiga-vision.com,Tap to Tie,44,2,2.7,HORIZONTAL
+ebiga-VISION GmbH,ebiga-vision.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Beglaubigt.de,beglaubigt.de,CareLend,47,3,2.85,HORIZONTAL
+Beglaubigt.de,beglaubigt.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Beglaubigt.de,beglaubigt.de,HRlab,45,2,2.75,HORIZONTAL
+Beglaubigt.de,beglaubigt.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Beglaubigt.de,beglaubigt.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Integral,www.integral.com,CareLend,47,3,2.85,HORIZONTAL
+Integral,www.integral.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Integral,www.integral.com,HRlab,45,2,2.75,HORIZONTAL
+Integral,www.integral.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Integral,www.integral.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Secunet Security Networks AG,secunet.com,CareLend,47,3,2.85,HORIZONTAL
+Secunet Security Networks AG,secunet.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Secunet Security Networks AG,secunet.com,HRlab,45,2,2.75,HORIZONTAL
+Secunet Security Networks AG,secunet.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Secunet Security Networks AG,secunet.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Thielemann Group,www.thielemann-group.com,CareLend,47,3,2.85,HORIZONTAL
+Thielemann Group,www.thielemann-group.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Thielemann Group,www.thielemann-group.com,HRlab,45,2,2.75,HORIZONTAL
+Thielemann Group,www.thielemann-group.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Thielemann Group,www.thielemann-group.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Air Code,https://www.aircode.de/,CareLend,47,3,2.85,HORIZONTAL
+Air Code,https://www.aircode.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Air Code,https://www.aircode.de/,HRlab,45,2,2.75,HORIZONTAL
+Air Code,https://www.aircode.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Air Code,https://www.aircode.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Schrack Seconet AG,schrack-seconet.com,CareLend,47,3,2.85,HORIZONTAL
+Schrack Seconet AG,schrack-seconet.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Schrack Seconet AG,schrack-seconet.com,HRlab,45,2,2.75,HORIZONTAL
+Schrack Seconet AG,schrack-seconet.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Schrack Seconet AG,schrack-seconet.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Uberblick.io,uberblick.io,CareLend,47,3,2.85,HORIZONTAL
+Uberblick.io,uberblick.io,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Uberblick.io,uberblick.io,HRlab,45,2,2.75,HORIZONTAL
+Uberblick.io,uberblick.io,Tap to Tie,44,2,2.7,HORIZONTAL
+Uberblick.io,uberblick.io,vemeto GmbH,43,1,2.65,HORIZONTAL
+NOAH (Westernacher Solutions GmbH),noah-notariatssoftware.de,CareLend,47,3,2.85,HORIZONTAL
+NOAH (Westernacher Solutions GmbH),noah-notariatssoftware.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+NOAH (Westernacher Solutions GmbH),noah-notariatssoftware.de,HRlab,45,2,2.75,HORIZONTAL
+NOAH (Westernacher Solutions GmbH),noah-notariatssoftware.de,Tap to Tie,44,2,2.7,HORIZONTAL
+NOAH (Westernacher Solutions GmbH),noah-notariatssoftware.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+PlanOrg,planorg.de,CareLend,47,3,2.85,HORIZONTAL
+PlanOrg,planorg.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+PlanOrg,planorg.de,HRlab,45,2,2.75,HORIZONTAL
+PlanOrg,planorg.de,Tap to Tie,44,2,2.7,HORIZONTAL
+PlanOrg,planorg.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+FEURER Porsiplast GmbH,feurer.com,CareLend,47,3,2.85,HORIZONTAL
+FEURER Porsiplast GmbH,feurer.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+FEURER Porsiplast GmbH,feurer.com,HRlab,45,2,2.75,HORIZONTAL
+FEURER Porsiplast GmbH,feurer.com,Tap to Tie,44,2,2.7,HORIZONTAL
+FEURER Porsiplast GmbH,feurer.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Panat Laptool GmbH,https://panat-laptool.de/,CareLend,47,3,2.85,HORIZONTAL
+Panat Laptool GmbH,https://panat-laptool.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Panat Laptool GmbH,https://panat-laptool.de/,HRlab,45,2,2.75,HORIZONTAL
+Panat Laptool GmbH,https://panat-laptool.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Panat Laptool GmbH,https://panat-laptool.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+UnTouch,untouch.de,CareLend,47,3,2.85,HORIZONTAL
+UnTouch,untouch.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+UnTouch,untouch.de,HRlab,45,2,2.75,HORIZONTAL
+UnTouch,untouch.de,Tap to Tie,44,2,2.7,HORIZONTAL
+UnTouch,untouch.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+PTV Group,ptvgroup.com,CareLend,47,3,2.85,HORIZONTAL
+PTV Group,ptvgroup.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+PTV Group,ptvgroup.com,HRlab,45,2,2.75,HORIZONTAL
+PTV Group,ptvgroup.com,Tap to Tie,44,2,2.7,HORIZONTAL
+PTV Group,ptvgroup.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+AsstrA,www.asstra.de,CareLend,47,3,2.85,HORIZONTAL
+AsstrA,www.asstra.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+AsstrA,www.asstra.de,HRlab,45,2,2.75,HORIZONTAL
+AsstrA,www.asstra.de,Tap to Tie,44,2,2.7,HORIZONTAL
+AsstrA,www.asstra.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+BRF Verpackungen GmbH & Co. KG,blisterverpackung-nrw.de,CareLend,47,3,2.85,HORIZONTAL
+BRF Verpackungen GmbH & Co. KG,blisterverpackung-nrw.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BRF Verpackungen GmbH & Co. KG,blisterverpackung-nrw.de,HRlab,45,2,2.75,HORIZONTAL
+BRF Verpackungen GmbH & Co. KG,blisterverpackung-nrw.de,Tap to Tie,44,2,2.7,HORIZONTAL
+BRF Verpackungen GmbH & Co. KG,blisterverpackung-nrw.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Pricefx,https://www.pricefx.com/,CareLend,47,3,2.85,HORIZONTAL
+Pricefx,https://www.pricefx.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Pricefx,https://www.pricefx.com/,HRlab,45,2,2.75,HORIZONTAL
+Pricefx,https://www.pricefx.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Pricefx,https://www.pricefx.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+SobIT GmbH,sobit.at,CareLend,47,3,2.85,HORIZONTAL
+SobIT GmbH,sobit.at,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SobIT GmbH,sobit.at,HRlab,45,2,2.75,HORIZONTAL
+SobIT GmbH,sobit.at,Tap to Tie,44,2,2.7,HORIZONTAL
+SobIT GmbH,sobit.at,vemeto GmbH,43,1,2.65,HORIZONTAL
+qado,qado.de,CareLend,47,3,2.85,HORIZONTAL
+qado,qado.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+qado,qado.de,HRlab,45,2,2.75,HORIZONTAL
+qado,qado.de,Tap to Tie,44,2,2.7,HORIZONTAL
+qado,qado.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Candis GmbH,candis.io,CareLend,47,3,2.85,HORIZONTAL
+Candis GmbH,candis.io,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Candis GmbH,candis.io,HRlab,45,2,2.75,HORIZONTAL
+Candis GmbH,candis.io,Tap to Tie,44,2,2.7,HORIZONTAL
+Candis GmbH,candis.io,vemeto GmbH,43,1,2.65,HORIZONTAL
+FrachtGefährten,frachtgefaehrten.de,CareLend,47,3,2.85,HORIZONTAL
+FrachtGefährten,frachtgefaehrten.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+FrachtGefährten,frachtgefaehrten.de,HRlab,45,2,2.75,HORIZONTAL
+FrachtGefährten,frachtgefaehrten.de,Tap to Tie,44,2,2.7,HORIZONTAL
+FrachtGefährten,frachtgefaehrten.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+DeepDrive,www.deepdrive.tech,CareLend,47,3,2.85,HORIZONTAL
+DeepDrive,www.deepdrive.tech,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+DeepDrive,www.deepdrive.tech,HRlab,45,2,2.75,HORIZONTAL
+DeepDrive,www.deepdrive.tech,Tap to Tie,44,2,2.7,HORIZONTAL
+DeepDrive,www.deepdrive.tech,vemeto GmbH,43,1,2.65,HORIZONTAL
+notarity,https://notarity.com,CareLend,47,3,2.85,HORIZONTAL
+notarity,https://notarity.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+notarity,https://notarity.com,HRlab,45,2,2.75,HORIZONTAL
+notarity,https://notarity.com,Tap to Tie,44,2,2.7,HORIZONTAL
+notarity,https://notarity.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Alugha GmbH,alugha.com,CareLend,47,3,2.85,HORIZONTAL
+Alugha GmbH,alugha.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Alugha GmbH,alugha.com,HRlab,45,2,2.75,HORIZONTAL
+Alugha GmbH,alugha.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Alugha GmbH,alugha.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Davitec GmbH,davitec.de,CareLend,47,3,2.85,HORIZONTAL
+Davitec GmbH,davitec.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Davitec GmbH,davitec.de,HRlab,45,2,2.75,HORIZONTAL
+Davitec GmbH,davitec.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Davitec GmbH,davitec.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+auxalia,auxalia.com,CareLend,47,3,2.85,HORIZONTAL
+auxalia,auxalia.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+auxalia,auxalia.com,HRlab,45,2,2.75,HORIZONTAL
+auxalia,auxalia.com,Tap to Tie,44,2,2.7,HORIZONTAL
+auxalia,auxalia.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Inhubber GmbH,www.inhubber.com,CareLend,47,3,2.85,HORIZONTAL
+Inhubber GmbH,www.inhubber.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Inhubber GmbH,www.inhubber.com,HRlab,45,2,2.75,HORIZONTAL
+Inhubber GmbH,www.inhubber.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Inhubber GmbH,www.inhubber.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Novartis Deutschland,novartis.de,CareLend,47,3,2.85,HORIZONTAL
+Novartis Deutschland,novartis.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Novartis Deutschland,novartis.de,HRlab,45,2,2.75,HORIZONTAL
+Novartis Deutschland,novartis.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Novartis Deutschland,novartis.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+medidoc,medidoc.de,CareLend,47,3,2.85,HORIZONTAL
+medidoc,medidoc.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+medidoc,medidoc.de,HRlab,45,2,2.75,HORIZONTAL
+medidoc,medidoc.de,Tap to Tie,44,2,2.7,HORIZONTAL
+medidoc,medidoc.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+ELO Digital Office GmbH,elo.com,CareLend,47,3,2.85,HORIZONTAL
+ELO Digital Office GmbH,elo.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ELO Digital Office GmbH,elo.com,HRlab,45,2,2.75,HORIZONTAL
+ELO Digital Office GmbH,elo.com,Tap to Tie,44,2,2.7,HORIZONTAL
+ELO Digital Office GmbH,elo.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Block Optic Design GmbH,block-optic.com,CareLend,47,3,2.85,HORIZONTAL
+Block Optic Design GmbH,block-optic.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Block Optic Design GmbH,block-optic.com,HRlab,45,2,2.75,HORIZONTAL
+Block Optic Design GmbH,block-optic.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Block Optic Design GmbH,block-optic.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Cambrium,cambrium.bio,CareLend,47,3,2.85,HORIZONTAL
+Cambrium,cambrium.bio,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Cambrium,cambrium.bio,HRlab,45,2,2.75,HORIZONTAL
+Cambrium,cambrium.bio,Tap to Tie,44,2,2.7,HORIZONTAL
+Cambrium,cambrium.bio,vemeto GmbH,43,1,2.65,HORIZONTAL
+health learning,https://health-learning.ch/,CareLend,47,3,2.85,HORIZONTAL
+health learning,https://health-learning.ch/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+health learning,https://health-learning.ch/,HRlab,45,2,2.75,HORIZONTAL
+health learning,https://health-learning.ch/,Tap to Tie,44,2,2.7,HORIZONTAL
+health learning,https://health-learning.ch/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Heinrich Buhl GmbH,heinrich-buhl.de,CareLend,47,3,2.85,HORIZONTAL
+Heinrich Buhl GmbH,heinrich-buhl.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Heinrich Buhl GmbH,heinrich-buhl.de,HRlab,45,2,2.75,HORIZONTAL
+Heinrich Buhl GmbH,heinrich-buhl.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Heinrich Buhl GmbH,heinrich-buhl.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Pro-Bau/S® AddOne,probau-s.de,CareLend,47,3,2.85,HORIZONTAL
+Pro-Bau/S® AddOne,probau-s.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Pro-Bau/S® AddOne,probau-s.de,HRlab,45,2,2.75,HORIZONTAL
+Pro-Bau/S® AddOne,probau-s.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Pro-Bau/S® AddOne,probau-s.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+innloft,https://innoloft.com/de,CareLend,47,3,2.85,HORIZONTAL
+innloft,https://innoloft.com/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+innloft,https://innoloft.com/de,HRlab,45,2,2.75,HORIZONTAL
+innloft,https://innoloft.com/de,Tap to Tie,44,2,2.7,HORIZONTAL
+innloft,https://innoloft.com/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+packVerde,pack-verde.com,CareLend,47,3,2.85,HORIZONTAL
+packVerde,pack-verde.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+packVerde,pack-verde.com,HRlab,45,2,2.75,HORIZONTAL
+packVerde,pack-verde.com,Tap to Tie,44,2,2.7,HORIZONTAL
+packVerde,pack-verde.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Smart-Store GmbH,smart-store.de,CareLend,47,3,2.85,HORIZONTAL
+Smart-Store GmbH,smart-store.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Smart-Store GmbH,smart-store.de,HRlab,45,2,2.75,HORIZONTAL
+Smart-Store GmbH,smart-store.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Smart-Store GmbH,smart-store.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Bluebeam,https://www.bluebeam.com/de,CareLend,47,3,2.85,HORIZONTAL
+Bluebeam,https://www.bluebeam.com/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Bluebeam,https://www.bluebeam.com/de,HRlab,45,2,2.75,HORIZONTAL
+Bluebeam,https://www.bluebeam.com/de,Tap to Tie,44,2,2.7,HORIZONTAL
+Bluebeam,https://www.bluebeam.com/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+HERO,https://hero-software.de/,CareLend,47,3,2.85,HORIZONTAL
+HERO,https://hero-software.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+HERO,https://hero-software.de/,HRlab,45,2,2.75,HORIZONTAL
+HERO,https://hero-software.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+HERO,https://hero-software.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+synedra information technologies GmbH,synedra.com,CareLend,47,3,2.85,HORIZONTAL
+synedra information technologies GmbH,synedra.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+synedra information technologies GmbH,synedra.com,HRlab,45,2,2.75,HORIZONTAL
+synedra information technologies GmbH,synedra.com,Tap to Tie,44,2,2.7,HORIZONTAL
+synedra information technologies GmbH,synedra.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Herma GmbH,herma.de,CareLend,47,3,2.85,HORIZONTAL
+Herma GmbH,herma.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Herma GmbH,herma.de,HRlab,45,2,2.75,HORIZONTAL
+Herma GmbH,herma.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Herma GmbH,herma.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Crif,https://www.crif.de,CareLend,47,3,2.85,HORIZONTAL
+Crif,https://www.crif.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Crif,https://www.crif.de,HRlab,45,2,2.75,HORIZONTAL
+Crif,https://www.crif.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Crif,https://www.crif.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Stammaum,www.stumbaum.com,CareLend,47,3,2.85,HORIZONTAL
+Stammaum,www.stumbaum.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Stammaum,www.stumbaum.com,HRlab,45,2,2.75,HORIZONTAL
+Stammaum,www.stumbaum.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Stammaum,www.stumbaum.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Acotherm GmbH,https://www.acotherm.de,CareLend,47,3,2.85,HORIZONTAL
+Acotherm GmbH,https://www.acotherm.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Acotherm GmbH,https://www.acotherm.de,HRlab,45,2,2.75,HORIZONTAL
+Acotherm GmbH,https://www.acotherm.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Acotherm GmbH,https://www.acotherm.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Confiserieauer,https://www.confiserieauer.ch,CareLend,47,3,2.85,HORIZONTAL
+Confiserieauer,https://www.confiserieauer.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Confiserieauer,https://www.confiserieauer.ch,HRlab,45,2,2.75,HORIZONTAL
+Confiserieauer,https://www.confiserieauer.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+Confiserieauer,https://www.confiserieauer.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+UltiHash,ultihash.io,CareLend,47,3,2.85,HORIZONTAL
+UltiHash,ultihash.io,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+UltiHash,ultihash.io,HRlab,45,2,2.75,HORIZONTAL
+UltiHash,ultihash.io,Tap to Tie,44,2,2.7,HORIZONTAL
+UltiHash,ultihash.io,vemeto GmbH,43,1,2.65,HORIZONTAL
+Claus Mayer Verpackungen,pm-mayer.de,CareLend,47,3,2.85,HORIZONTAL
+Claus Mayer Verpackungen,pm-mayer.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Claus Mayer Verpackungen,pm-mayer.de,HRlab,45,2,2.75,HORIZONTAL
+Claus Mayer Verpackungen,pm-mayer.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Claus Mayer Verpackungen,pm-mayer.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Orderlion,orderlion.com,CareLend,47,3,2.85,HORIZONTAL
+Orderlion,orderlion.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Orderlion,orderlion.com,HRlab,45,2,2.75,HORIZONTAL
+Orderlion,orderlion.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Orderlion,orderlion.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+med3 GmbH,med3.de,CareLend,47,3,2.85,HORIZONTAL
+med3 GmbH,med3.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+med3 GmbH,med3.de,HRlab,45,2,2.75,HORIZONTAL
+med3 GmbH,med3.de,Tap to Tie,44,2,2.7,HORIZONTAL
+med3 GmbH,med3.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+frischli Milchwerke GmbH,frischli.de,CareLend,47,3,2.85,HORIZONTAL
+frischli Milchwerke GmbH,frischli.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+frischli Milchwerke GmbH,frischli.de,HRlab,45,2,2.75,HORIZONTAL
+frischli Milchwerke GmbH,frischli.de,Tap to Tie,44,2,2.7,HORIZONTAL
+frischli Milchwerke GmbH,frischli.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Commercetools,https://commercetools.com/de/,CareLend,47,3,2.85,HORIZONTAL
+Commercetools,https://commercetools.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Commercetools,https://commercetools.com/de/,HRlab,45,2,2.75,HORIZONTAL
+Commercetools,https://commercetools.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Commercetools,https://commercetools.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+humanvision ag,humanvision.ch,CareLend,47,3,2.85,HORIZONTAL
+humanvision ag,humanvision.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+humanvision ag,humanvision.ch,HRlab,45,2,2.75,HORIZONTAL
+humanvision ag,humanvision.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+humanvision ag,humanvision.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+Right Point GmbH,rightpoint.de,CareLend,47,3,2.85,HORIZONTAL
+Right Point GmbH,rightpoint.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Right Point GmbH,rightpoint.de,HRlab,45,2,2.75,HORIZONTAL
+Right Point GmbH,rightpoint.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Right Point GmbH,rightpoint.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+NEVARIS,https://www.nevaris.com/de,CareLend,47,3,2.85,HORIZONTAL
+NEVARIS,https://www.nevaris.com/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+NEVARIS,https://www.nevaris.com/de,HRlab,45,2,2.75,HORIZONTAL
+NEVARIS,https://www.nevaris.com/de,Tap to Tie,44,2,2.7,HORIZONTAL
+NEVARIS,https://www.nevaris.com/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Freshfoodz,freshfoodz.de,CareLend,47,3,2.85,HORIZONTAL
+Freshfoodz,freshfoodz.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Freshfoodz,freshfoodz.de,HRlab,45,2,2.75,HORIZONTAL
+Freshfoodz,freshfoodz.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Freshfoodz,freshfoodz.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+JobRouter AG,jobrouter.com,CareLend,47,3,2.85,HORIZONTAL
+JobRouter AG,jobrouter.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+JobRouter AG,jobrouter.com,HRlab,45,2,2.75,HORIZONTAL
+JobRouter AG,jobrouter.com,Tap to Tie,44,2,2.7,HORIZONTAL
+JobRouter AG,jobrouter.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Digando,www.digando.com,CareLend,47,3,2.85,HORIZONTAL
+Digando,www.digando.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Digando,www.digando.com,HRlab,45,2,2.75,HORIZONTAL
+Digando,www.digando.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Digando,www.digando.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+SOFTAGE,softage.de,CareLend,47,3,2.85,HORIZONTAL
+SOFTAGE,softage.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SOFTAGE,softage.de,HRlab,45,2,2.75,HORIZONTAL
+SOFTAGE,softage.de,Tap to Tie,44,2,2.7,HORIZONTAL
+SOFTAGE,softage.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Alpah Zukunft,https://www.alphazukunft.com/,CareLend,47,3,2.85,HORIZONTAL
+Alpah Zukunft,https://www.alphazukunft.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Alpah Zukunft,https://www.alphazukunft.com/,HRlab,45,2,2.75,HORIZONTAL
+Alpah Zukunft,https://www.alphazukunft.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Alpah Zukunft,https://www.alphazukunft.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Valtech,https://www.valtech.com/,CareLend,47,3,2.85,HORIZONTAL
+Valtech,https://www.valtech.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Valtech,https://www.valtech.com/,HRlab,45,2,2.75,HORIZONTAL
+Valtech,https://www.valtech.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Valtech,https://www.valtech.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+wissner-bosserhoff GmbH,wi-bo.de,CareLend,47,3,2.85,HORIZONTAL
+wissner-bosserhoff GmbH,wi-bo.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+wissner-bosserhoff GmbH,wi-bo.de,HRlab,45,2,2.75,HORIZONTAL
+wissner-bosserhoff GmbH,wi-bo.de,Tap to Tie,44,2,2.7,HORIZONTAL
+wissner-bosserhoff GmbH,wi-bo.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Thyssenkrupp Materials Services,thyssenkrupp-materials-services.com,CareLend,47,3,2.85,HORIZONTAL
+Thyssenkrupp Materials Services,thyssenkrupp-materials-services.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Thyssenkrupp Materials Services,thyssenkrupp-materials-services.com,HRlab,45,2,2.75,HORIZONTAL
+Thyssenkrupp Materials Services,thyssenkrupp-materials-services.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Thyssenkrupp Materials Services,thyssenkrupp-materials-services.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Contentful GmbH,contentful.com,CareLend,47,3,2.85,HORIZONTAL
+Contentful GmbH,contentful.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Contentful GmbH,contentful.com,HRlab,45,2,2.75,HORIZONTAL
+Contentful GmbH,contentful.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Contentful GmbH,contentful.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+SMC,https://www.smc.eu/de-de,CareLend,47,3,2.85,HORIZONTAL
+SMC,https://www.smc.eu/de-de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SMC,https://www.smc.eu/de-de,HRlab,45,2,2.75,HORIZONTAL
+SMC,https://www.smc.eu/de-de,Tap to Tie,44,2,2.7,HORIZONTAL
+SMC,https://www.smc.eu/de-de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Fritz Ruck Ophthalmologische Systeme GmbH,https://ruck-gmbh.de/,CareLend,47,3,2.85,HORIZONTAL
+Fritz Ruck Ophthalmologische Systeme GmbH,https://ruck-gmbh.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Fritz Ruck Ophthalmologische Systeme GmbH,https://ruck-gmbh.de/,HRlab,45,2,2.75,HORIZONTAL
+Fritz Ruck Ophthalmologische Systeme GmbH,https://ruck-gmbh.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Fritz Ruck Ophthalmologische Systeme GmbH,https://ruck-gmbh.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Notarius,notarius.legal,CareLend,47,3,2.85,HORIZONTAL
+Notarius,notarius.legal,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Notarius,notarius.legal,HRlab,45,2,2.75,HORIZONTAL
+Notarius,notarius.legal,Tap to Tie,44,2,2.7,HORIZONTAL
+Notarius,notarius.legal,vemeto GmbH,43,1,2.65,HORIZONTAL
+GRÜN Software Group GmbH,gruen.net,CareLend,47,3,2.85,HORIZONTAL
+GRÜN Software Group GmbH,gruen.net,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+GRÜN Software Group GmbH,gruen.net,HRlab,45,2,2.75,HORIZONTAL
+GRÜN Software Group GmbH,gruen.net,Tap to Tie,44,2,2.7,HORIZONTAL
+GRÜN Software Group GmbH,gruen.net,vemeto GmbH,43,1,2.65,HORIZONTAL
+Rhenus Home Delivery,www.rhenus.group,CareLend,47,3,2.85,HORIZONTAL
+Rhenus Home Delivery,www.rhenus.group,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Rhenus Home Delivery,www.rhenus.group,HRlab,45,2,2.75,HORIZONTAL
+Rhenus Home Delivery,www.rhenus.group,Tap to Tie,44,2,2.7,HORIZONTAL
+Rhenus Home Delivery,www.rhenus.group,vemeto GmbH,43,1,2.65,HORIZONTAL
+SoftwarePartner GmbH,softwarepartner.net,CareLend,47,3,2.85,HORIZONTAL
+SoftwarePartner GmbH,softwarepartner.net,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SoftwarePartner GmbH,softwarepartner.net,HRlab,45,2,2.75,HORIZONTAL
+SoftwarePartner GmbH,softwarepartner.net,Tap to Tie,44,2,2.7,HORIZONTAL
+SoftwarePartner GmbH,softwarepartner.net,vemeto GmbH,43,1,2.65,HORIZONTAL
+Wingcopter GmbH,www.wingcopter.com,CareLend,47,3,2.85,HORIZONTAL
+Wingcopter GmbH,www.wingcopter.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Wingcopter GmbH,www.wingcopter.com,HRlab,45,2,2.75,HORIZONTAL
+Wingcopter GmbH,www.wingcopter.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Wingcopter GmbH,www.wingcopter.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Sparck,https://sparcktechnologies.com/de,CareLend,47,3,2.85,HORIZONTAL
+Sparck,https://sparcktechnologies.com/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Sparck,https://sparcktechnologies.com/de,HRlab,45,2,2.75,HORIZONTAL
+Sparck,https://sparcktechnologies.com/de,Tap to Tie,44,2,2.7,HORIZONTAL
+Sparck,https://sparcktechnologies.com/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+BeneVit Gruppe,www.benevit.net,CareLend,47,3,2.85,HORIZONTAL
+BeneVit Gruppe,www.benevit.net,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BeneVit Gruppe,www.benevit.net,HRlab,45,2,2.75,HORIZONTAL
+BeneVit Gruppe,www.benevit.net,Tap to Tie,44,2,2.7,HORIZONTAL
+BeneVit Gruppe,www.benevit.net,vemeto GmbH,43,1,2.65,HORIZONTAL
+Temedica GmbH,temedica.com,CareLend,47,3,2.85,HORIZONTAL
+Temedica GmbH,temedica.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Temedica GmbH,temedica.com,HRlab,45,2,2.75,HORIZONTAL
+Temedica GmbH,temedica.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Temedica GmbH,temedica.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+IQfy GmbH,iqfy.de,CareLend,47,3,2.85,HORIZONTAL
+IQfy GmbH,iqfy.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+IQfy GmbH,iqfy.de,HRlab,45,2,2.75,HORIZONTAL
+IQfy GmbH,iqfy.de,Tap to Tie,44,2,2.7,HORIZONTAL
+IQfy GmbH,iqfy.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Eyetec GmbH,eyetec.com,CareLend,47,3,2.85,HORIZONTAL
+Eyetec GmbH,eyetec.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Eyetec GmbH,eyetec.com,HRlab,45,2,2.75,HORIZONTAL
+Eyetec GmbH,eyetec.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Eyetec GmbH,eyetec.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Dr. Schumacher GmbH,schumacher-online.com,CareLend,47,3,2.85,HORIZONTAL
+Dr. Schumacher GmbH,schumacher-online.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Dr. Schumacher GmbH,schumacher-online.com,HRlab,45,2,2.75,HORIZONTAL
+Dr. Schumacher GmbH,schumacher-online.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Dr. Schumacher GmbH,schumacher-online.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Cozero,https://www.cozero.io/,CareLend,47,3,2.85,HORIZONTAL
+Cozero,https://www.cozero.io/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Cozero,https://www.cozero.io/,HRlab,45,2,2.75,HORIZONTAL
+Cozero,https://www.cozero.io/,Tap to Tie,44,2,2.7,HORIZONTAL
+Cozero,https://www.cozero.io/,vemeto GmbH,43,1,2.65,HORIZONTAL
+RIB eVergabe  RIB Software GmbH,rib-software.com,CareLend,47,3,2.85,HORIZONTAL
+RIB eVergabe  RIB Software GmbH,rib-software.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+RIB eVergabe  RIB Software GmbH,rib-software.com,HRlab,45,2,2.75,HORIZONTAL
+RIB eVergabe  RIB Software GmbH,rib-software.com,Tap to Tie,44,2,2.7,HORIZONTAL
+RIB eVergabe  RIB Software GmbH,rib-software.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+AM GmbH,am-gmbh.de,CareLend,47,3,2.85,HORIZONTAL
+AM GmbH,am-gmbh.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+AM GmbH,am-gmbh.de,HRlab,45,2,2.75,HORIZONTAL
+AM GmbH,am-gmbh.de,Tap to Tie,44,2,2.7,HORIZONTAL
+AM GmbH,am-gmbh.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+mernatix,https://www.merantix.com/,CareLend,47,3,2.85,HORIZONTAL
+mernatix,https://www.merantix.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+mernatix,https://www.merantix.com/,HRlab,45,2,2.75,HORIZONTAL
+mernatix,https://www.merantix.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+mernatix,https://www.merantix.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+HOWDEN,https://www.howdengroup.com/,CareLend,47,3,2.85,HORIZONTAL
+HOWDEN,https://www.howdengroup.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+HOWDEN,https://www.howdengroup.com/,HRlab,45,2,2.75,HORIZONTAL
+HOWDEN,https://www.howdengroup.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+HOWDEN,https://www.howdengroup.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Foobar,www.foobar.agency/de,CareLend,47,3,2.85,HORIZONTAL
+Foobar,www.foobar.agency/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Foobar,www.foobar.agency/de,HRlab,45,2,2.75,HORIZONTAL
+Foobar,www.foobar.agency/de,Tap to Tie,44,2,2.7,HORIZONTAL
+Foobar,www.foobar.agency/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+RNA,https://rna.de/de/,CareLend,47,3,2.85,HORIZONTAL
+RNA,https://rna.de/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+RNA,https://rna.de/de/,HRlab,45,2,2.75,HORIZONTAL
+RNA,https://rna.de/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+RNA,https://rna.de/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+NovoSign GmbH,novosign.de,CareLend,47,3,2.85,HORIZONTAL
+NovoSign GmbH,novosign.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+NovoSign GmbH,novosign.de,HRlab,45,2,2.75,HORIZONTAL
+NovoSign GmbH,novosign.de,Tap to Tie,44,2,2.7,HORIZONTAL
+NovoSign GmbH,novosign.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Va-Q-tec AG,www.va-q-tec.com,CareLend,47,3,2.85,HORIZONTAL
+Va-Q-tec AG,www.va-q-tec.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Va-Q-tec AG,www.va-q-tec.com,HRlab,45,2,2.75,HORIZONTAL
+Va-Q-tec AG,www.va-q-tec.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Va-Q-tec AG,www.va-q-tec.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Service-Bund GmbH & Co. KG,servicebund.de,CareLend,47,3,2.85,HORIZONTAL
+Service-Bund GmbH & Co. KG,servicebund.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Service-Bund GmbH & Co. KG,servicebund.de,HRlab,45,2,2.75,HORIZONTAL
+Service-Bund GmbH & Co. KG,servicebund.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Service-Bund GmbH & Co. KG,servicebund.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+SVG Rehasysteme GmbH,https://www.svg-rehasysteme.de/,CareLend,47,3,2.85,HORIZONTAL
+SVG Rehasysteme GmbH,https://www.svg-rehasysteme.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SVG Rehasysteme GmbH,https://www.svg-rehasysteme.de/,HRlab,45,2,2.75,HORIZONTAL
+SVG Rehasysteme GmbH,https://www.svg-rehasysteme.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+SVG Rehasysteme GmbH,https://www.svg-rehasysteme.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Staffbase,https://staffbase.com/de/,CareLend,47,3,2.85,HORIZONTAL
+Staffbase,https://staffbase.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Staffbase,https://staffbase.com/de/,HRlab,45,2,2.75,HORIZONTAL
+Staffbase,https://staffbase.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Staffbase,https://staffbase.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Teuscher,https://www.teuscher.com/,CareLend,47,3,2.85,HORIZONTAL
+Teuscher,https://www.teuscher.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Teuscher,https://www.teuscher.com/,HRlab,45,2,2.75,HORIZONTAL
+Teuscher,https://www.teuscher.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Teuscher,https://www.teuscher.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+KUMAVISION AG,kumavision.com,CareLend,47,3,2.85,HORIZONTAL
+KUMAVISION AG,kumavision.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+KUMAVISION AG,kumavision.com,HRlab,45,2,2.75,HORIZONTAL
+KUMAVISION AG,kumavision.com,Tap to Tie,44,2,2.7,HORIZONTAL
+KUMAVISION AG,kumavision.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Moving Intelligence GmbH,movingintelligence.de,CareLend,47,3,2.85,HORIZONTAL
+Moving Intelligence GmbH,movingintelligence.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Moving Intelligence GmbH,movingintelligence.de,HRlab,45,2,2.75,HORIZONTAL
+Moving Intelligence GmbH,movingintelligence.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Moving Intelligence GmbH,movingintelligence.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Projektron GmbH,projektron.de,CareLend,47,3,2.85,HORIZONTAL
+Projektron GmbH,projektron.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Projektron GmbH,projektron.de,HRlab,45,2,2.75,HORIZONTAL
+Projektron GmbH,projektron.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Projektron GmbH,projektron.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+DocuWare GmbH,bahesmartwork.de,CareLend,47,3,2.85,HORIZONTAL
+DocuWare GmbH,bahesmartwork.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+DocuWare GmbH,bahesmartwork.de,HRlab,45,2,2.75,HORIZONTAL
+DocuWare GmbH,bahesmartwork.de,Tap to Tie,44,2,2.7,HORIZONTAL
+DocuWare GmbH,bahesmartwork.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Bihl Wiedemann,https://www.bihl-wiedemann.de/de/,CareLend,47,3,2.85,HORIZONTAL
+Bihl Wiedemann,https://www.bihl-wiedemann.de/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Bihl Wiedemann,https://www.bihl-wiedemann.de/de/,HRlab,45,2,2.75,HORIZONTAL
+Bihl Wiedemann,https://www.bihl-wiedemann.de/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Bihl Wiedemann,https://www.bihl-wiedemann.de/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+SmartLoC,https://www.smartloc.de/,CareLend,47,3,2.85,HORIZONTAL
+SmartLoC,https://www.smartloc.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SmartLoC,https://www.smartloc.de/,HRlab,45,2,2.75,HORIZONTAL
+SmartLoC,https://www.smartloc.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+SmartLoC,https://www.smartloc.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+AI VERGABEMANAGER  Administration Intelligence AG,ai-ag.de,CareLend,47,3,2.85,HORIZONTAL
+AI VERGABEMANAGER  Administration Intelligence AG,ai-ag.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+AI VERGABEMANAGER  Administration Intelligence AG,ai-ag.de,HRlab,45,2,2.75,HORIZONTAL
+AI VERGABEMANAGER  Administration Intelligence AG,ai-ag.de,Tap to Tie,44,2,2.7,HORIZONTAL
+AI VERGABEMANAGER  Administration Intelligence AG,ai-ag.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+amarea,https://www.amarea.de/,CareLend,47,3,2.85,HORIZONTAL
+amarea,https://www.amarea.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+amarea,https://www.amarea.de/,HRlab,45,2,2.75,HORIZONTAL
+amarea,https://www.amarea.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+amarea,https://www.amarea.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Doka,www.doka.com,CareLend,47,3,2.85,HORIZONTAL
+Doka,www.doka.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Doka,www.doka.com,HRlab,45,2,2.75,HORIZONTAL
+Doka,www.doka.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Doka,www.doka.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+FinTecSystems,https://www.fintecsystems.com/de/,CareLend,47,3,2.85,HORIZONTAL
+FinTecSystems,https://www.fintecsystems.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+FinTecSystems,https://www.fintecsystems.com/de/,HRlab,45,2,2.75,HORIZONTAL
+FinTecSystems,https://www.fintecsystems.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+FinTecSystems,https://www.fintecsystems.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+KORA GmbH,kora.at,CareLend,47,3,2.85,HORIZONTAL
+KORA GmbH,kora.at,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+KORA GmbH,kora.at,HRlab,45,2,2.75,HORIZONTAL
+KORA GmbH,kora.at,Tap to Tie,44,2,2.7,HORIZONTAL
+KORA GmbH,kora.at,vemeto GmbH,43,1,2.65,HORIZONTAL
+ITRIS,www.itris.ch,CareLend,47,3,2.85,HORIZONTAL
+ITRIS,www.itris.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ITRIS,www.itris.ch,HRlab,45,2,2.75,HORIZONTAL
+ITRIS,www.itris.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+ITRIS,www.itris.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+1stQuad Solutions AG,1stquad.com,CareLend,47,3,2.85,HORIZONTAL
+1stQuad Solutions AG,1stquad.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+1stQuad Solutions AG,1stquad.com,HRlab,45,2,2.75,HORIZONTAL
+1stQuad Solutions AG,1stquad.com,Tap to Tie,44,2,2.7,HORIZONTAL
+1stQuad Solutions AG,1stquad.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Optica Abrechnungszentrum Dr. Güldener GmbH,https://www.optica.de/,CareLend,47,3,2.85,HORIZONTAL
+Optica Abrechnungszentrum Dr. Güldener GmbH,https://www.optica.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Optica Abrechnungszentrum Dr. Güldener GmbH,https://www.optica.de/,HRlab,45,2,2.75,HORIZONTAL
+Optica Abrechnungszentrum Dr. Güldener GmbH,https://www.optica.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Optica Abrechnungszentrum Dr. Güldener GmbH,https://www.optica.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Oxyle,oxyle.ch,CareLend,47,3,2.85,HORIZONTAL
+Oxyle,www.oxyle.ch,CareLend,47,3,2.85,HORIZONTAL
+Oxyle,oxyle.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Oxyle,www.oxyle.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Oxyle,oxyle.ch,HRlab,45,2,2.75,HORIZONTAL
+DM7 stationär,dm7-software.de,CareLend,47,3,2.85,HORIZONTAL
+DM7 stationär,dm7-software.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+DM7 stationär,dm7-software.de,HRlab,45,2,2.75,HORIZONTAL
+DM7 stationär,dm7-software.de,Tap to Tie,44,2,2.7,HORIZONTAL
+DM7 stationär,dm7-software.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Menutech GmbH,https://menutech.com/de/,CareLend,47,3,2.85,HORIZONTAL
+Menutech GmbH,https://menutech.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Menutech GmbH,https://menutech.com/de/,HRlab,45,2,2.75,HORIZONTAL
+Menutech GmbH,https://menutech.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Menutech GmbH,https://menutech.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Bachmann Forming AG,bachmann-kunststoff-verpackungen.ch,CareLend,47,3,2.85,HORIZONTAL
+Bachmann Forming AG,bachmann-kunststoff-verpackungen.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Bachmann Forming AG,bachmann-kunststoff-verpackungen.ch,HRlab,45,2,2.75,HORIZONTAL
+Bachmann Forming AG,bachmann-kunststoff-verpackungen.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+Bachmann Forming AG,bachmann-kunststoff-verpackungen.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+FleetGO GmbH,fleetgo.de,CareLend,47,3,2.85,HORIZONTAL
+FleetGO GmbH,fleetgo.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+FleetGO GmbH,fleetgo.de,HRlab,45,2,2.75,HORIZONTAL
+FleetGO GmbH,fleetgo.de,Tap to Tie,44,2,2.7,HORIZONTAL
+FleetGO GmbH,fleetgo.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Qdrant,qdrant.tech,CareLend,47,3,2.85,HORIZONTAL
+Qdrant,qdrant.tech,CareLend,47,3,2.85,HORIZONTAL
+Qdrant,qdrant.tech,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Qdrant,qdrant.tech,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Qdrant,qdrant.tech,HRlab,45,2,2.75,HORIZONTAL
+Ondo sense,https://ondosense.com/,CareLend,47,3,2.85,HORIZONTAL
+Ondo sense,https://ondosense.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Ondo sense,https://ondosense.com/,HRlab,45,2,2.75,HORIZONTAL
+Ondo sense,https://ondosense.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Ondo sense,https://ondosense.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+click worker,www.clickworker.com,CareLend,47,3,2.85,HORIZONTAL
+click worker,www.clickworker.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+click worker,www.clickworker.com,HRlab,45,2,2.75,HORIZONTAL
+click worker,www.clickworker.com,Tap to Tie,44,2,2.7,HORIZONTAL
+click worker,www.clickworker.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Helferportal,www.helferportal.de,CareLend,47,3,2.85,HORIZONTAL
+Helferportal,www.helferportal.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Helferportal,www.helferportal.de,HRlab,45,2,2.75,HORIZONTAL
+Helferportal,www.helferportal.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Helferportal,www.helferportal.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+editho AG,editho.de,CareLend,47,3,2.85,HORIZONTAL
+editho AG,editho.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+editho AG,editho.de,HRlab,45,2,2.75,HORIZONTAL
+editho AG,editho.de,Tap to Tie,44,2,2.7,HORIZONTAL
+editho AG,editho.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+SÜDPACK Medica AG,suedpack-medica.com,CareLend,47,3,2.85,HORIZONTAL
+SÜDPACK Medica AG,suedpack-medica.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SÜDPACK Medica AG,suedpack-medica.com,HRlab,45,2,2.75,HORIZONTAL
+SÜDPACK Medica AG,suedpack-medica.com,Tap to Tie,44,2,2.7,HORIZONTAL
+SÜDPACK Medica AG,suedpack-medica.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Concular,www.concular.de,CareLend,47,3,2.85,HORIZONTAL
+Concular,www.concular.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Concular,www.concular.de,HRlab,45,2,2.75,HORIZONTAL
+Concular,www.concular.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Concular,www.concular.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Havi Logistics,www.havi.com,CareLend,47,3,2.85,HORIZONTAL
+Havi Logistics,www.havi.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Havi Logistics,www.havi.com,HRlab,45,2,2.75,HORIZONTAL
+Havi Logistics,www.havi.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Havi Logistics,www.havi.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+BK Vital,https://www.bkvital.de/,CareLend,47,3,2.85,HORIZONTAL
+BK Vital,https://www.bkvital.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BK Vital,https://www.bkvital.de/,HRlab,45,2,2.75,HORIZONTAL
+BK Vital,https://www.bkvital.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+BK Vital,https://www.bkvital.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Lisios,lisios.de,CareLend,47,3,2.85,HORIZONTAL
+Lisios,lisios.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Lisios,lisios.de,HRlab,45,2,2.75,HORIZONTAL
+Lisios,lisios.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Lisios,lisios.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Thimm Group GmbH + Co. KG,thimm.com,CareLend,47,3,2.85,HORIZONTAL
+Thimm Group GmbH + Co. KG,thimm.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Thimm Group GmbH + Co. KG,thimm.com,HRlab,45,2,2.75,HORIZONTAL
+Thimm Group GmbH + Co. KG,thimm.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Thimm Group GmbH + Co. KG,thimm.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+BMI Deutschland GmbH,www.bmigroup.com/de,CareLend,47,3,2.85,HORIZONTAL
+BMI Deutschland GmbH,www.bmigroup.com/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BMI Deutschland GmbH,www.bmigroup.com/de,HRlab,45,2,2.75,HORIZONTAL
+BMI Deutschland GmbH,www.bmigroup.com/de,Tap to Tie,44,2,2.7,HORIZONTAL
+BMI Deutschland GmbH,www.bmigroup.com/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Neura Robotics,www.neura-robotics.com,CareLend,47,3,2.85,HORIZONTAL
+Neura Robotics,www.neura-robotics.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Neura Robotics,www.neura-robotics.com,HRlab,45,2,2.75,HORIZONTAL
+Neura Robotics,www.neura-robotics.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Neura Robotics,www.neura-robotics.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+BauWatch,www.bauwatch.de,CareLend,47,3,2.85,HORIZONTAL
+BauWatch,www.bauwatch.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BauWatch,www.bauwatch.de,HRlab,45,2,2.75,HORIZONTAL
+BauWatch,www.bauwatch.de,Tap to Tie,44,2,2.7,HORIZONTAL
+BauWatch,www.bauwatch.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+abc cross media GmbH,abccrossmedia.com,CareLend,47,3,2.85,HORIZONTAL
+abc cross media GmbH,abccrossmedia.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+abc cross media GmbH,abccrossmedia.com,HRlab,45,2,2.75,HORIZONTAL
+abc cross media GmbH,abccrossmedia.com,Tap to Tie,44,2,2.7,HORIZONTAL
+abc cross media GmbH,abccrossmedia.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Wirthwein AG,www.wirthwein.de,CareLend,47,3,2.85,HORIZONTAL
+Wirthwein AG,www.wirthwein.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Wirthwein AG,www.wirthwein.de,HRlab,45,2,2.75,HORIZONTAL
+Wirthwein AG,www.wirthwein.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Wirthwein AG,www.wirthwein.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Flavura GmbH,flavura.de,CareLend,47,3,2.85,HORIZONTAL
+Flavura GmbH,flavura.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Flavura GmbH,flavura.de,HRlab,45,2,2.75,HORIZONTAL
+Flavura GmbH,flavura.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Flavura GmbH,flavura.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+GastroSmart GmbH,https://www.gastro-smart.com/,CareLend,47,3,2.85,HORIZONTAL
+GastroSmart GmbH,https://www.gastro-smart.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+GastroSmart GmbH,https://www.gastro-smart.com/,HRlab,45,2,2.75,HORIZONTAL
+GastroSmart GmbH,https://www.gastro-smart.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+GastroSmart GmbH,https://www.gastro-smart.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Jina AI,jina.ai,CareLend,47,3,2.85,HORIZONTAL
+Jina AI,jina.ai,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Jina AI,jina.ai,HRlab,45,2,2.75,HORIZONTAL
+Jina AI,jina.ai,Tap to Tie,44,2,2.7,HORIZONTAL
+Jina AI,jina.ai,vemeto GmbH,43,1,2.65,HORIZONTAL
+plano WFM,plano-wfm.com,CareLend,47,3,2.85,HORIZONTAL
+plano WFM,plano-wfm.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+plano WFM,plano-wfm.com,HRlab,45,2,2.75,HORIZONTAL
+plano WFM,plano-wfm.com,Tap to Tie,44,2,2.7,HORIZONTAL
+plano WFM,plano-wfm.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Heidelberger Druckmaschinen AG,https://www.heidelberg.com/global/de/index.jsp,CareLend,47,3,2.85,HORIZONTAL
+Heidelberger Druckmaschinen AG,https://www.heidelberg.com/global/de/index.jsp,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Heidelberger Druckmaschinen AG,https://www.heidelberg.com/global/de/index.jsp,HRlab,45,2,2.75,HORIZONTAL
+Heidelberger Druckmaschinen AG,https://www.heidelberg.com/global/de/index.jsp,Tap to Tie,44,2,2.7,HORIZONTAL
+Heidelberger Druckmaschinen AG,https://www.heidelberg.com/global/de/index.jsp,vemeto GmbH,43,1,2.65,HORIZONTAL
+Anwaltssoftware.net,anwaltssoftware.net,CareLend,47,3,2.85,HORIZONTAL
+Anwaltssoftware.net,anwaltssoftware.net,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Anwaltssoftware.net,anwaltssoftware.net,HRlab,45,2,2.75,HORIZONTAL
+Anwaltssoftware.net,anwaltssoftware.net,Tap to Tie,44,2,2.7,HORIZONTAL
+Anwaltssoftware.net,anwaltssoftware.net,vemeto GmbH,43,1,2.65,HORIZONTAL
+SimplifyU,simplifyu.de,CareLend,47,3,2.85,HORIZONTAL
+SimplifyU,simplifyu.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SimplifyU,simplifyu.de,HRlab,45,2,2.75,HORIZONTAL
+SimplifyU,simplifyu.de,Tap to Tie,44,2,2.7,HORIZONTAL
+SimplifyU,simplifyu.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Propster,www.propster.tech,CareLend,47,3,2.85,HORIZONTAL
+Propster,www.propster.tech,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Propster,www.propster.tech,HRlab,45,2,2.75,HORIZONTAL
+Propster,www.propster.tech,Tap to Tie,44,2,2.7,HORIZONTAL
+Propster,www.propster.tech,vemeto GmbH,43,1,2.65,HORIZONTAL
+C&S Computer und Software GmbH,cs-ag.de,CareLend,47,3,2.85,HORIZONTAL
+C&S Computer und Software GmbH,cs-ag.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+C&S Computer und Software GmbH,cs-ag.de,HRlab,45,2,2.75,HORIZONTAL
+C&S Computer und Software GmbH,cs-ag.de,Tap to Tie,44,2,2.7,HORIZONTAL
+C&S Computer und Software GmbH,cs-ag.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Atheneum,https://www.atheneum.ai/,CareLend,47,3,2.85,HORIZONTAL
+Atheneum,https://www.atheneum.ai/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Atheneum,https://www.atheneum.ai/,HRlab,45,2,2.75,HORIZONTAL
+Atheneum,https://www.atheneum.ai/,Tap to Tie,44,2,2.7,HORIZONTAL
+Atheneum,https://www.atheneum.ai/,vemeto GmbH,43,1,2.65,HORIZONTAL
+GREEN IT Das Systemhaus GmbH,greenit-dp.solutions,CareLend,47,3,2.85,HORIZONTAL
+GREEN IT Das Systemhaus GmbH,greenit-dp.solutions,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+GREEN IT Das Systemhaus GmbH,greenit-dp.solutions,HRlab,45,2,2.75,HORIZONTAL
+GREEN IT Das Systemhaus GmbH,greenit-dp.solutions,Tap to Tie,44,2,2.7,HORIZONTAL
+GREEN IT Das Systemhaus GmbH,greenit-dp.solutions,vemeto GmbH,43,1,2.65,HORIZONTAL
+Weissenseer Holz-System-Bau GmbH,www.weissenseer.com,CareLend,47,3,2.85,HORIZONTAL
+Weissenseer Holz-System-Bau GmbH,www.weissenseer.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Weissenseer Holz-System-Bau GmbH,www.weissenseer.com,HRlab,45,2,2.75,HORIZONTAL
+Weissenseer Holz-System-Bau GmbH,www.weissenseer.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Weissenseer Holz-System-Bau GmbH,www.weissenseer.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+mybits.ai,mybits.ai,CareLend,47,3,2.85,HORIZONTAL
+mybits.ai,mybits.ai,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+mybits.ai,mybits.ai,HRlab,45,2,2.75,HORIZONTAL
+mybits.ai,mybits.ai,Tap to Tie,44,2,2.7,HORIZONTAL
+mybits.ai,mybits.ai,vemeto GmbH,43,1,2.65,HORIZONTAL
+Streiff & Helmold GmbH,streiff.de,CareLend,47,3,2.85,HORIZONTAL
+Streiff & Helmold GmbH,streiff.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Streiff & Helmold GmbH,streiff.de,HRlab,45,2,2.75,HORIZONTAL
+Streiff & Helmold GmbH,streiff.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Streiff & Helmold GmbH,streiff.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+easygov,https://www.easygov.swiss,CareLend,47,3,2.85,HORIZONTAL
+easygov,https://www.easygov.swiss,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+easygov,https://www.easygov.swiss,HRlab,45,2,2.75,HORIZONTAL
+easygov,https://www.easygov.swiss,Tap to Tie,44,2,2.7,HORIZONTAL
+easygov,https://www.easygov.swiss,vemeto GmbH,43,1,2.65,HORIZONTAL
+Creditreform,https://www.creditreform.de,CareLend,47,3,2.85,HORIZONTAL
+Creditreform,https://www.creditreform.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Creditreform,https://www.creditreform.de,HRlab,45,2,2.75,HORIZONTAL
+Creditreform,https://www.creditreform.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Creditreform,https://www.creditreform.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Aidhere GmbH,aidhere.com,CareLend,47,3,2.85,HORIZONTAL
+Aidhere GmbH,aidhere.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Aidhere GmbH,aidhere.com,HRlab,45,2,2.75,HORIZONTAL
+Aidhere GmbH,aidhere.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Aidhere GmbH,aidhere.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+medondo AG,medondo.com,CareLend,47,3,2.85,HORIZONTAL
+medondo AG,medondo.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+medondo AG,medondo.com,HRlab,45,2,2.75,HORIZONTAL
+medondo AG,medondo.com,Tap to Tie,44,2,2.7,HORIZONTAL
+medondo AG,medondo.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+xpertour GmbH,xpertour.de,CareLend,47,3,2.85,HORIZONTAL
+xpertour GmbH,xpertour.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+xpertour GmbH,xpertour.de,HRlab,45,2,2.75,HORIZONTAL
+xpertour GmbH,xpertour.de,Tap to Tie,44,2,2.7,HORIZONTAL
+xpertour GmbH,xpertour.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+G&W Software AG,gw-software.de,CareLend,47,3,2.85,HORIZONTAL
+G&W Software AG,gw-software.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+G&W Software AG,gw-software.de,HRlab,45,2,2.75,HORIZONTAL
+G&W Software AG,gw-software.de,Tap to Tie,44,2,2.7,HORIZONTAL
+G&W Software AG,gw-software.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Elaine Technologies GmbH,elaine.io,CareLend,47,3,2.85,HORIZONTAL
+Elaine Technologies GmbH,elaine.io,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Elaine Technologies GmbH,elaine.io,HRlab,45,2,2.75,HORIZONTAL
+Elaine Technologies GmbH,elaine.io,Tap to Tie,44,2,2.7,HORIZONTAL
+Elaine Technologies GmbH,elaine.io,vemeto GmbH,43,1,2.65,HORIZONTAL
+Graphitsoft,https://graphisoft.com/de/archicad,CareLend,47,3,2.85,HORIZONTAL
+Graphitsoft,https://graphisoft.com/de/archicad,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Graphitsoft,https://graphisoft.com/de/archicad,HRlab,45,2,2.75,HORIZONTAL
+Graphitsoft,https://graphisoft.com/de/archicad,Tap to Tie,44,2,2.7,HORIZONTAL
+Graphitsoft,https://graphisoft.com/de/archicad,vemeto GmbH,43,1,2.65,HORIZONTAL
+Spryker,https://spryker.com/de/,CareLend,47,3,2.85,HORIZONTAL
+Spryker,https://spryker.com/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Spryker,https://spryker.com/de/,HRlab,45,2,2.75,HORIZONTAL
+Spryker,https://spryker.com/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Spryker,https://spryker.com/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+iDWELL,idwell.com,CareLend,47,3,2.85,HORIZONTAL
+iDWELL,idwell.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+iDWELL,idwell.com,HRlab,45,2,2.75,HORIZONTAL
+iDWELL,idwell.com,Tap to Tie,44,2,2.7,HORIZONTAL
+iDWELL,idwell.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Birdie,birdie.care,CareLend,47,3,2.85,HORIZONTAL
+Birdie,birdie.care,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Birdie,birdie.care,HRlab,45,2,2.75,HORIZONTAL
+Birdie,birdie.care,Tap to Tie,44,2,2.7,HORIZONTAL
+Birdie,birdie.care,vemeto GmbH,43,1,2.65,HORIZONTAL
+TOMEY GmbH,tomey.de,CareLend,47,3,2.85,HORIZONTAL
+TOMEY GmbH,tomey.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+TOMEY GmbH,tomey.de,HRlab,45,2,2.75,HORIZONTAL
+TOMEY GmbH,tomey.de,Tap to Tie,44,2,2.7,HORIZONTAL
+TOMEY GmbH,tomey.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Vectorworks,www.vectorworks.net/de,CareLend,47,3,2.85,HORIZONTAL
+Vectorworks,www.vectorworks.net/de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Vectorworks,www.vectorworks.net/de,HRlab,45,2,2.75,HORIZONTAL
+Vectorworks,www.vectorworks.net/de,Tap to Tie,44,2,2.7,HORIZONTAL
+Vectorworks,www.vectorworks.net/de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Payuca GmbH,www.payuca.com,CareLend,47,3,2.85,HORIZONTAL
+Payuca GmbH,www.payuca.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Payuca GmbH,www.payuca.com,HRlab,45,2,2.75,HORIZONTAL
+Payuca GmbH,www.payuca.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Payuca GmbH,www.payuca.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Rehadapt Engineering GmbH,rehadapt.com,CareLend,47,3,2.85,HORIZONTAL
+Rehadapt Engineering GmbH,rehadapt.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Rehadapt Engineering GmbH,rehadapt.com,HRlab,45,2,2.75,HORIZONTAL
+Rehadapt Engineering GmbH,rehadapt.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Rehadapt Engineering GmbH,rehadapt.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Tractus Team GmbH,tractus.info,CareLend,47,3,2.85,HORIZONTAL
+Tractus Team GmbH,tractus.info,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Tractus Team GmbH,tractus.info,HRlab,45,2,2.75,HORIZONTAL
+Tractus Team GmbH,tractus.info,Tap to Tie,44,2,2.7,HORIZONTAL
+Tractus Team GmbH,tractus.info,vemeto GmbH,43,1,2.65,HORIZONTAL
+hanf im glück,https://hanf-im-glueck.shop/,CareLend,47,3,2.85,HORIZONTAL
+hanf im glück,https://hanf-im-glueck.shop/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+hanf im glück,https://hanf-im-glueck.shop/,HRlab,45,2,2.75,HORIZONTAL
+hanf im glück,https://hanf-im-glueck.shop/,Tap to Tie,44,2,2.7,HORIZONTAL
+hanf im glück,https://hanf-im-glueck.shop/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Multipac Verpackungen GmbH,multipac.de,CareLend,47,3,2.85,HORIZONTAL
+Multipac Verpackungen GmbH,multipac.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Multipac Verpackungen GmbH,multipac.de,HRlab,45,2,2.75,HORIZONTAL
+Multipac Verpackungen GmbH,multipac.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Multipac Verpackungen GmbH,multipac.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+BetterReply GmbH,better-reply.de,CareLend,47,3,2.85,HORIZONTAL
+BetterReply GmbH,better-reply.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BetterReply GmbH,better-reply.de,HRlab,45,2,2.75,HORIZONTAL
+BetterReply GmbH,better-reply.de,Tap to Tie,44,2,2.7,HORIZONTAL
+BetterReply GmbH,better-reply.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Kellergroup,kellergroup.de,CareLend,47,3,2.85,HORIZONTAL
+Kellergroup,kellergroup.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Kellergroup,kellergroup.de,HRlab,45,2,2.75,HORIZONTAL
+Kellergroup,kellergroup.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Kellergroup,kellergroup.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Pyramid Computer GmbH,pyramid-computer.com,CareLend,47,3,2.85,HORIZONTAL
+Pyramid Computer GmbH,pyramid-computer.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Pyramid Computer GmbH,pyramid-computer.com,HRlab,45,2,2.75,HORIZONTAL
+Pyramid Computer GmbH,pyramid-computer.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Pyramid Computer GmbH,pyramid-computer.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Planstack,www.planstack.de,CareLend,47,3,2.85,HORIZONTAL
+Planstack,www.planstack.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Planstack,www.planstack.de,HRlab,45,2,2.75,HORIZONTAL
+Planstack,www.planstack.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Planstack,www.planstack.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA,id-berlin.de,CareLend,47,3,2.85,HORIZONTAL
+ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA,id-berlin.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA,id-berlin.de,HRlab,45,2,2.75,HORIZONTAL
+ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA,id-berlin.de,Tap to Tie,44,2,2.7,HORIZONTAL
+ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA,id-berlin.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+biocon Medizintechnik GmbH,biocon-online.de,CareLend,47,3,2.85,HORIZONTAL
+biocon Medizintechnik GmbH,biocon-online.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+biocon Medizintechnik GmbH,biocon-online.de,HRlab,45,2,2.75,HORIZONTAL
+biocon Medizintechnik GmbH,biocon-online.de,Tap to Tie,44,2,2.7,HORIZONTAL
+biocon Medizintechnik GmbH,biocon-online.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+SECO S.p.A.,seco.com,CareLend,47,3,2.85,HORIZONTAL
+SECO S.p.A.,seco.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SECO S.p.A.,seco.com,HRlab,45,2,2.75,HORIZONTAL
+SECO S.p.A.,seco.com,Tap to Tie,44,2,2.7,HORIZONTAL
+SECO S.p.A.,seco.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+intratool GmbH,https://www.intratool.de/,CareLend,47,3,2.85,HORIZONTAL
+intratool GmbH,https://www.intratool.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+intratool GmbH,https://www.intratool.de/,HRlab,45,2,2.75,HORIZONTAL
+intratool GmbH,https://www.intratool.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+intratool GmbH,https://www.intratool.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Recup,https://recup.de/,CareLend,47,3,2.85,HORIZONTAL
+Recup,https://recup.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Recup,https://recup.de/,HRlab,45,2,2.75,HORIZONTAL
+Recup,https://recup.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Recup,https://recup.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Tool Sesne,https://toolsense.io/de/,CareLend,47,3,2.85,HORIZONTAL
+Tool Sesne,https://toolsense.io/de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Tool Sesne,https://toolsense.io/de/,HRlab,45,2,2.75,HORIZONTAL
+Tool Sesne,https://toolsense.io/de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Tool Sesne,https://toolsense.io/de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+webid-solution,https://www.webid-solutions.de,CareLend,47,3,2.85,HORIZONTAL
+webid-solution,https://www.webid-solutions.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+webid-solution,https://www.webid-solutions.de,HRlab,45,2,2.75,HORIZONTAL
+webid-solution,https://www.webid-solutions.de,Tap to Tie,44,2,2.7,HORIZONTAL
+webid-solution,https://www.webid-solutions.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+OPHEO Solutions GmbH,opheo.com,CareLend,47,3,2.85,HORIZONTAL
+OPHEO Solutions GmbH,opheo.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+OPHEO Solutions GmbH,opheo.com,HRlab,45,2,2.75,HORIZONTAL
+OPHEO Solutions GmbH,opheo.com,Tap to Tie,44,2,2.7,HORIZONTAL
+OPHEO Solutions GmbH,opheo.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Pflegeprozessmanager,pflegeprozessmanager.de,CareLend,47,3,2.85,HORIZONTAL
+Pflegeprozessmanager,pflegeprozessmanager.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Pflegeprozessmanager,pflegeprozessmanager.de,HRlab,45,2,2.75,HORIZONTAL
+Pflegeprozessmanager,pflegeprozessmanager.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Pflegeprozessmanager,pflegeprozessmanager.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Seven Vending,seven-vending.com,CareLend,47,3,2.85,HORIZONTAL
+Seven Vending,seven-vending.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Seven Vending,seven-vending.com,HRlab,45,2,2.75,HORIZONTAL
+Seven Vending,seven-vending.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Seven Vending,seven-vending.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+mobiloclean Handelsgruppe GmbH & Co. KG,mobiloclean.de,CareLend,47,3,2.85,HORIZONTAL
+mobiloclean Handelsgruppe GmbH & Co. KG,mobiloclean.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+mobiloclean Handelsgruppe GmbH & Co. KG,mobiloclean.de,HRlab,45,2,2.75,HORIZONTAL
+mobiloclean Handelsgruppe GmbH & Co. KG,mobiloclean.de,Tap to Tie,44,2,2.7,HORIZONTAL
+mobiloclean Handelsgruppe GmbH & Co. KG,mobiloclean.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Syntegon Technology GmbH,syntegon.com,CareLend,47,3,2.85,HORIZONTAL
+Syntegon Technology GmbH,syntegon.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Syntegon Technology GmbH,syntegon.com,HRlab,45,2,2.75,HORIZONTAL
+Syntegon Technology GmbH,syntegon.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Syntegon Technology GmbH,syntegon.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+matchory,www.matchory.com,CareLend,47,3,2.85,HORIZONTAL
+matchory,www.matchory.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+matchory,www.matchory.com,HRlab,45,2,2.75,HORIZONTAL
+matchory,www.matchory.com,Tap to Tie,44,2,2.7,HORIZONTAL
+matchory,www.matchory.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Brickwise,www.brickwise.at,CareLend,47,3,2.85,HORIZONTAL
+Brickwise,www.brickwise.at,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Brickwise,www.brickwise.at,HRlab,45,2,2.75,HORIZONTAL
+Brickwise,www.brickwise.at,Tap to Tie,44,2,2.7,HORIZONTAL
+Brickwise,www.brickwise.at,vemeto GmbH,43,1,2.65,HORIZONTAL
+Kwikset,www.kwikset.de,CareLend,47,3,2.85,HORIZONTAL
+Kwikset,www.kwikset.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Kwikset,www.kwikset.de,HRlab,45,2,2.75,HORIZONTAL
+Kwikset,www.kwikset.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Kwikset,www.kwikset.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+1Komma5° GmbH,www.1komma5grad.com,CareLend,47,3,2.85,HORIZONTAL
+1Komma5° GmbH,www.1komma5grad.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+1Komma5° GmbH,www.1komma5grad.com,HRlab,45,2,2.75,HORIZONTAL
+1Komma5° GmbH,www.1komma5grad.com,Tap to Tie,44,2,2.7,HORIZONTAL
+1Komma5° GmbH,www.1komma5grad.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+gilspa,https://www.glispa.com/,CareLend,47,3,2.85,HORIZONTAL
+gilspa,https://www.glispa.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+gilspa,https://www.glispa.com/,HRlab,45,2,2.75,HORIZONTAL
+gilspa,https://www.glispa.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+gilspa,https://www.glispa.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+rexroth,https://www.boschrexroth.com/,CareLend,47,3,2.85,HORIZONTAL
+rexroth,https://www.boschrexroth.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+rexroth,https://www.boschrexroth.com/,HRlab,45,2,2.75,HORIZONTAL
+rexroth,https://www.boschrexroth.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+rexroth,https://www.boschrexroth.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Security Robotics GmbH,security-robotics.de,CareLend,47,3,2.85,HORIZONTAL
+Security Robotics GmbH,security-robotics.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Security Robotics GmbH,security-robotics.de,HRlab,45,2,2.75,HORIZONTAL
+Security Robotics GmbH,security-robotics.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Security Robotics GmbH,security-robotics.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+BauMaster,https://bau-master.com/,CareLend,47,3,2.85,HORIZONTAL
+BauMaster,https://bau-master.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+BauMaster,https://bau-master.com/,HRlab,45,2,2.75,HORIZONTAL
+BauMaster,https://bau-master.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+BauMaster,https://bau-master.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+DeskFlex Inc.,deskflex.com,CareLend,47,3,2.85,HORIZONTAL
+DeskFlex Inc.,deskflex.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+DeskFlex Inc.,deskflex.com,HRlab,45,2,2.75,HORIZONTAL
+DeskFlex Inc.,deskflex.com,Tap to Tie,44,2,2.7,HORIZONTAL
+DeskFlex Inc.,deskflex.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Confinerie bosch,https://www.confiserie-bosch.de/,CareLend,47,3,2.85,HORIZONTAL
+Confinerie bosch,https://www.confiserie-bosch.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Confinerie bosch,https://www.confiserie-bosch.de/,HRlab,45,2,2.75,HORIZONTAL
+Confinerie bosch,https://www.confiserie-bosch.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Confinerie bosch,https://www.confiserie-bosch.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Schülke & Mayr GmbH,schuelke.com,CareLend,47,3,2.85,HORIZONTAL
+Schülke & Mayr GmbH,schuelke.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Schülke & Mayr GmbH,schuelke.com,HRlab,45,2,2.75,HORIZONTAL
+Schülke & Mayr GmbH,schuelke.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Schülke & Mayr GmbH,schuelke.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+PflegeOffice,pflegeoffice.de,CareLend,47,3,2.85,HORIZONTAL
+PflegeOffice,pflegeoffice.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+PflegeOffice,pflegeoffice.de,HRlab,45,2,2.75,HORIZONTAL
+PflegeOffice,pflegeoffice.de,Tap to Tie,44,2,2.7,HORIZONTAL
+PflegeOffice,pflegeoffice.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Sitelife,https://www.sitelife.de/,CareLend,47,3,2.85,HORIZONTAL
+Sitelife,https://www.sitelife.de/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Sitelife,https://www.sitelife.de/,HRlab,45,2,2.75,HORIZONTAL
+Sitelife,https://www.sitelife.de/,Tap to Tie,44,2,2.7,HORIZONTAL
+Sitelife,https://www.sitelife.de/,vemeto GmbH,43,1,2.65,HORIZONTAL
+ibo Software GmbH,ibo.de,CareLend,47,3,2.85,HORIZONTAL
+ibo Software GmbH,ibo.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ibo Software GmbH,ibo.de,HRlab,45,2,2.75,HORIZONTAL
+ibo Software GmbH,ibo.de,Tap to Tie,44,2,2.7,HORIZONTAL
+ibo Software GmbH,ibo.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Sauer Software GmbH,sauer-os.de,CareLend,47,3,2.85,HORIZONTAL
+Sauer Software GmbH,sauer-os.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Sauer Software GmbH,sauer-os.de,HRlab,45,2,2.75,HORIZONTAL
+Sauer Software GmbH,sauer-os.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Sauer Software GmbH,sauer-os.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+voize GmbH,voize.de,CareLend,47,3,2.85,HORIZONTAL
+voize GmbH,voize.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+voize GmbH,voize.de,HRlab,45,2,2.75,HORIZONTAL
+voize GmbH,voize.de,Tap to Tie,44,2,2.7,HORIZONTAL
+voize GmbH,voize.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+LIS AG,lis.eu,CareLend,47,3,2.85,HORIZONTAL
+LIS AG,lis.eu,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+LIS AG,lis.eu,HRlab,45,2,2.75,HORIZONTAL
+LIS AG,lis.eu,Tap to Tie,44,2,2.7,HORIZONTAL
+LIS AG,lis.eu,vemeto GmbH,43,1,2.65,HORIZONTAL
+cosinex GmbH,cosinex.de,CareLend,47,3,2.85,HORIZONTAL
+cosinex GmbH,cosinex.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+cosinex GmbH,cosinex.de,HRlab,45,2,2.75,HORIZONTAL
+cosinex GmbH,cosinex.de,Tap to Tie,44,2,2.7,HORIZONTAL
+cosinex GmbH,cosinex.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Jedox AG,jedox.com,CareLend,47,3,2.85,HORIZONTAL
+Jedox AG,jedox.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Jedox AG,jedox.com,HRlab,45,2,2.75,HORIZONTAL
+Jedox AG,jedox.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Jedox AG,jedox.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Stumbaum GmbH,www.stumbaum.de,CareLend,47,3,2.85,HORIZONTAL
+Stumbaum GmbH,www.stumbaum.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Stumbaum GmbH,www.stumbaum.de,HRlab,45,2,2.75,HORIZONTAL
+Stumbaum GmbH,www.stumbaum.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Stumbaum GmbH,www.stumbaum.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+ALFAPLAn GmbH,alfaplan.de,CareLend,47,3,2.85,HORIZONTAL
+ALFAPLAn GmbH,alfaplan.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+ALFAPLAn GmbH,alfaplan.de,HRlab,45,2,2.75,HORIZONTAL
+ALFAPLAn GmbH,alfaplan.de,Tap to Tie,44,2,2.7,HORIZONTAL
+ALFAPLAn GmbH,alfaplan.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+MID GmbH,mid.de,CareLend,47,3,2.85,HORIZONTAL
+MID GmbH,mid.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+MID GmbH,mid.de,HRlab,45,2,2.75,HORIZONTAL
+MID GmbH,mid.de,Tap to Tie,44,2,2.7,HORIZONTAL
+MID GmbH,mid.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+gts systems and consulting GmbH,gts-systems.com,CareLend,47,3,2.85,HORIZONTAL
+gts systems and consulting GmbH,gts-systems.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+gts systems and consulting GmbH,gts-systems.com,HRlab,45,2,2.75,HORIZONTAL
+gts systems and consulting GmbH,gts-systems.com,Tap to Tie,44,2,2.7,HORIZONTAL
+gts systems and consulting GmbH,gts-systems.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Vögeli AG,voegeli.ch,CareLend,47,3,2.85,HORIZONTAL
+Vögeli AG,voegeli.ch,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Vögeli AG,voegeli.ch,HRlab,45,2,2.75,HORIZONTAL
+Vögeli AG,voegeli.ch,Tap to Tie,44,2,2.7,HORIZONTAL
+Vögeli AG,voegeli.ch,vemeto GmbH,43,1,2.65,HORIZONTAL
+Baupilot,www.baupilot.com,CareLend,47,3,2.85,HORIZONTAL
+Baupilot,www.baupilot.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Baupilot,www.baupilot.com,HRlab,45,2,2.75,HORIZONTAL
+Baupilot,www.baupilot.com,Tap to Tie,44,2,2.7,HORIZONTAL
+Baupilot,www.baupilot.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Boxler Informatik AG,https://www.boxler.com/,CareLend,47,3,2.85,HORIZONTAL
+Boxler Informatik AG,https://www.boxler.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Boxler Informatik AG,https://www.boxler.com/,HRlab,45,2,2.75,HORIZONTAL
+Boxler Informatik AG,https://www.boxler.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Boxler Informatik AG,https://www.boxler.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Doctolib GmbH,doctolib.de,CareLend,47,3,2.85,HORIZONTAL
+Doctolib GmbH,doctolib.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Doctolib GmbH,doctolib.de,HRlab,45,2,2.75,HORIZONTAL
+Doctolib GmbH,doctolib.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Doctolib GmbH,doctolib.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+SENSO® Dokumentation,develop-group.de,CareLend,47,3,2.85,HORIZONTAL
+SENSO® Dokumentation,develop-group.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+SENSO® Dokumentation,develop-group.de,HRlab,45,2,2.75,HORIZONTAL
+SENSO® Dokumentation,develop-group.de,Tap to Tie,44,2,2.7,HORIZONTAL
+SENSO® Dokumentation,develop-group.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Manz,https://www.manz.com/,CareLend,47,3,2.85,HORIZONTAL
+Manz,https://www.manz.com/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Manz,https://www.manz.com/,HRlab,45,2,2.75,HORIZONTAL
+Manz,https://www.manz.com/,Tap to Tie,44,2,2.7,HORIZONTAL
+Manz,https://www.manz.com/,vemeto GmbH,43,1,2.65,HORIZONTAL
+Billie,https://www.billie.io/,CareLend,47,3,2.85,HORIZONTAL
+Billie,https://www.billie.io/,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Billie,https://www.billie.io/,HRlab,45,2,2.75,HORIZONTAL
+Billie,https://www.billie.io/,Tap to Tie,44,2,2.7,HORIZONTAL
+Billie,https://www.billie.io/,vemeto GmbH,43,1,2.65,HORIZONTAL
+tacterion,tacterion.com,CareLend,47,3,2.85,HORIZONTAL
+tacterion,tacterion.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+tacterion,tacterion.com,HRlab,45,2,2.75,HORIZONTAL
+tacterion,tacterion.com,Tap to Tie,44,2,2.7,HORIZONTAL
+tacterion,tacterion.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+CareMan,careman.de,CareLend,47,3,2.85,HORIZONTAL
+CareMan,careman.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+CareMan,careman.de,HRlab,45,2,2.75,HORIZONTAL
+CareMan,careman.de,Tap to Tie,44,2,2.7,HORIZONTAL
+CareMan,careman.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Bau Task,www.bautask.de,CareLend,47,3,2.85,HORIZONTAL
+Bau Task,www.bautask.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Bau Task,www.bautask.de,HRlab,45,2,2.75,HORIZONTAL
+Bau Task,www.bautask.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Bau Task,www.bautask.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+seerene,seerene.com,CareLend,47,3,2.85,HORIZONTAL
+seerene,seerene.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+seerene,seerene.com,HRlab,45,2,2.75,HORIZONTAL
+seerene,seerene.com,Tap to Tie,44,2,2.7,HORIZONTAL
+seerene,seerene.com,vemeto GmbH,43,1,2.65,HORIZONTAL
+Architext Software GmbH,architext.de,CareLend,47,3,2.85,HORIZONTAL
+Architext Software GmbH,architext.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Architext Software GmbH,architext.de,HRlab,45,2,2.75,HORIZONTAL
+Architext Software GmbH,architext.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Architext Software GmbH,architext.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Connext Vivendi,connext.de,CareLend,47,3,2.85,HORIZONTAL
+Connext Vivendi,connext.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Connext Vivendi,connext.de,HRlab,45,2,2.75,HORIZONTAL
+Connext Vivendi,connext.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Connext Vivendi,connext.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+Betriebsmittel-Verwaltung.de,betriebsmittel-verwaltung.de,CareLend,47,3,2.85,HORIZONTAL
+Betriebsmittel-Verwaltung.de,betriebsmittel-verwaltung.de,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+Betriebsmittel-Verwaltung.de,betriebsmittel-verwaltung.de,HRlab,45,2,2.75,HORIZONTAL
+Betriebsmittel-Verwaltung.de,betriebsmittel-verwaltung.de,Tap to Tie,44,2,2.7,HORIZONTAL
+Betriebsmittel-Verwaltung.de,betriebsmittel-verwaltung.de,vemeto GmbH,43,1,2.65,HORIZONTAL
+IGZ-Unternehmensgruppe,www.igz.com,CareLend,47,3,2.85,HORIZONTAL
+IGZ-Unternehmensgruppe,www.igz.com,DIGI-BEL,46,5,2.8000000000000003,HORIZONTAL
+IGZ-Unternehmensgruppe,www.igz.com,HRlab,45,2,2.75,HORIZONTAL
+IGZ-Unternehmensgruppe,www.igz.com,Tap to Tie,44,2,2.7,HORIZONTAL
+IGZ-Unternehmensgruppe,www.igz.com,vemeto GmbH,43,1,2.65,HORIZONTAL

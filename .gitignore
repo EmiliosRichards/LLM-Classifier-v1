@@ -1,0 +1,4 @@
+/.env
+/.venv
+/api_calls.md
+/cache.json

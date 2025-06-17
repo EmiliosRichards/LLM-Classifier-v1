@@ -1,0 +1,69 @@
+{
+  "HC_PC":  "Healthcare ► Primary-Care / General Practitioners",
+  "HC_HOSP":"Healthcare ► Acute-Care Hospitals",
+  "HC_LTC": "Healthcare ► Long-Term-Care / Nursing Homes",
+  "HC_MEM": "Healthcare ► Memory-Care Facilities",
+  "HC_PHAR":"Healthcare ► Pharmacies / Drug Stores",
+  "HC_HOME":"Healthcare ► Home-Health Agencies",
+  "HC_PAYER":"Healthcare ► Health Insurers / Payers",
+  "HC_LAB": "Healthcare ► Diagnostic Labs & Imaging Centres",
+  "HC_DEVICE":"Healthcare ► Medical-Device Manufacturers",
+
+  "FIN_BANK":"Financial-Services ► Retail & Commercial Banks",
+  "FIN_INV": "Financial-Services ► Investment Banks / Asset Managers",
+  "FIN_INS": "Financial-Services ► Insurance Providers",
+  "FIN_ACC": "Financial-Services ► Tax & Accounting Firms",
+  "FIN_FINTECH":"Financial-Services ► FinTech & Payment Processors",
+
+  "LEG_LAW": "Legal ► Law Firms & Solicitors",
+  "LEG_IP":  "Legal ► IP / Patent Specialists",
+
+  "MFG_SM":  "Manufacturing ► Small & Mid-size Manufacturers",
+  "MFG_LG":  "Manufacturing ► Enterprise-Scale Manufacturers",
+  "MFG_AUTO":"Manufacturing ► Automotive OEM & Tier Suppliers",
+  "MFG_FOOD":"Manufacturing ► Food & Beverage Producers",
+  "MFG_CPG": "Manufacturing ► Consumer-Goods / CPG Producers",
+
+  "RET_BRICK":"Retail ► Brick-and-Mortar Retailers",
+  "RET_ECOM": "Retail ► E-commerce / Online Retailers",
+  "RET_CPG":  "Retail ► Consumer-Packaged-Goods Brands",
+
+  "TECH_SAAS":"Technology ► B2B SaaS Vendors",
+  "TECH_IT":  "Technology ► Corporate IT Departments",
+  "TECH_DEV": "Technology ► Software Development Agencies",
+  "TECH_START":"Technology ► Tech Start-ups & Scale-ups",
+
+  "EDU_K12": "Education ► K-12 Schools & Districts",
+  "EDU_HE":  "Education ► Higher-Education Institutions",
+  "EDU_EDTECH":"Education ► Ed-Tech Vendors",
+
+  "PUB_GOV": "Public-Sector ► National / Federal Agencies",
+  "PUB_MUN": "Public-Sector ► Municipal & Local Authorities",
+  "PUB_NPO": "Public-Sector ► Non-Profits & NGOs",
+
+  "LOG_TPT": "Logistics ► Transport & Haulage Operators",
+  "LOG_3PL": "Logistics ► 3PL / Freight Forwarders",
+  "LOG_WHS": "Logistics ► Warehousing & Fulfilment Centres",
+
+  "ENE_OIL": "Energy ► Oil & Gas Operators",
+  "ENE_UTIL":"Energy ► Utilities (Power / Water)",
+  "ENE_RENEW":"Energy ► Renewable-Energy Providers",
+
+  "HOS_HOTEL":"Hospitality ► Hotels & Resorts",
+  "HOS_REST": "Hospitality ► Restaurant Chains",
+  "HOS_EVENT":"Hospitality ► Event & Conference Venues",
+
+  "X_HORIZ": "Cross-Industry ► Horizontal Business Software",
+  "X_SME": "Cross-Industry ► Targets Small & Medium Enterprises",
+  "X_ENTERPRISE": "Cross-Industry ► Targets Large Enterprises",
+  "F_HR": "Functional Focus ► HR Departments",
+  "F_IT": "Functional Focus ► IT Departments",
+  "F_FIN": "Functional Focus ► Finance/Accounting Departments",
+  "F_MKTG": "Functional Focus ► Marketing Departments",
+  "F_SALES": "Functional Focus ► Sales Departments",
+  "F_OPS": "Functional Focus ► Operations Departments",
+  "X_MULTIPLATFORM": "Cross-Industry ► Multi-Sided Platform/Marketplace",
+  "X_REGULATED": "Cross-Industry ► Serves Highly Regulated Sectors",
+  "UNKNOWN": "Audience ► Unknown / Too little info",
+  "OTHER": "Audience ► Other / Not Yet Classified (manual explanation required)"
+}
