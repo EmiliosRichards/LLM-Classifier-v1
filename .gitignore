@@ -2,3 +2,12 @@
 /.venv
 /api_calls.md
 /cache.json
+
+.env
+*.pyc
+__pycache__/
+
+# Ignore Python cache files
+*.pyo
+*.pyd
+# Ignore Jupyter Notebook checkpoints   
